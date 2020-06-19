@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Quynn is the best!"
 date:   2020-06-18 00:22:57 +0100
 categories: jekyll update
 ---
