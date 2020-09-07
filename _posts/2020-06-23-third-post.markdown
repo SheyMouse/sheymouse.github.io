@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "The Second Post"
 date:   2020-06-23 20:22:57 +0100
 categories: next
