@@ -2,14 +2,14 @@
 main:
   - title: "Musings"
     url: /musings/
-  - title: "About"
-    url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "100 Games"
+    url: /100-games/
+  - title: "Leadership Thoughts"
+    url: /LeadershipThoughts/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "About"
+    url: /about/
 
 #sidebar navigation
 docs:

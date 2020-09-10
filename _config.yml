@@ -191,6 +191,12 @@ collections:
   musings:
     output: true
     permalink: /:collection/:path/
+  100-games:
+    output: true
+    permalink: /:collection/:path/
+  LeadershipThoughts:
+    output: true
+    permalink: /:collection/:path/
 
 # Markdown Processing
 kramdown:
@@ -300,3 +306,21 @@ defaults:
     values:
       layout: single
       author_profile: true
+  #_100-games  
+  - scope:
+      path: ""
+      type: 100-games
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: #true
+  #_LeadershipThoughts  
+  - scope:
+      path: ""
+      type: LeadershipThoughts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: #true

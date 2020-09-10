@@ -12,6 +12,10 @@ excerpt: "Hello, and welcome to my blog site.<br> Please choose a section above 
 feature_row:
   - image_path: /assets/images/aaron-burden-AvqpdLRjABs-unsplash.jpg
     alt: "Latest"
+    image_caption: Photo credit [Unsplash/Aaron Burden](https://unsplash.com/photos/AvqpdLRjABs)
+    actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
     title: "Hello, world"
     excerpt: "Welcome to my new blog space! I'm currently working on combining some of my..."
     url: "/musings/2020-09-08-hello-world//"
