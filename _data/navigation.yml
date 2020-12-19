@@ -6,6 +6,8 @@ main:
     url: /100-games/
   - title: "Leadership Thoughts"
     url: /LeadershipThoughts/
+  - title: "Portfolio"
+    url: /Portfolio/
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "About"
@@ -17,8 +19,8 @@ docs:
     children:
       - title: "Nav test 1"
         url: /docs/testpage/
-        
-        
+
+
 #docs:
   #- title: Getting Started
     #children:
