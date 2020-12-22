@@ -9,7 +9,7 @@ People who create things for a living often have a portfolio of things to show. 
 
 NB: This page is very much a work in progress. It's been published in order to get feedback from peers on where this can be improved.  
 
-## LeadershipThoughts on Twitter and LinkedIn
+## #LeadershipThoughts on Twitter and LinkedIn
 Personal project to share my thoughts on leadership with the community. I semi-regularly post a thought about leadership on Twitter and LinkedIn under the hashtag #LeadershipThoughts. First and foremost this is to challenge myself to think about my leadership journey. Secondly, it is to provoke conversations to help others on their leadership journey, particularly those starting out.  
 Here is the list of tweets - [#LeadershipThoughts](https://twitter.com/search?q=\(%23LeadershipThoughts\)%20\(from%3ASheyMouse\)&src=typed_query&f=live)
 

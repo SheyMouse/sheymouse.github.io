@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "default"  "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shey's Interesting Experiment"
+title                    : "Shey's Blogging Experiment"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "SheyMouse" # &name is a YAML anchor which can be *referenced later
-description              : &description "A site in progress!"
+description              : &description "A collection of blogs and thoughts"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/images/crashbug_400x400.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software tester, entrepreneur, amateur photographer, blogger, dad, and frequent beer sampler."
   location         : "Cambridgeshire"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -290,7 +290,7 @@ defaults:
       comments: # true
       share: true
       related: true
-  #_musings   
+  #_musings
   - scope:
       path: ""
       type: musings
@@ -298,6 +298,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      related: true
       comments: #true
   # _pages
   - scope:
@@ -306,7 +307,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #_100-games  
+  #_100-games
   - scope:
       path: ""
       type: 100-games
@@ -315,7 +316,7 @@ defaults:
       author_profile: true
       share: true
       comments: #true
-  #_LeadershipThoughts  
+  #_LeadershipThoughts
   - scope:
       path: ""
       type: LeadershipThoughts
