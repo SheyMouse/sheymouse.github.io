@@ -17,7 +17,7 @@ feature_row:
     - label: "More Info"
       url: "https://unsplash.com"
     title: "End of Year Reading"
-    excerpt: "<i>Published: 22/12/2020</i><br>Blogs to read before the end of 2020"
+    excerpt: "<i>Published: 22/12/2020</i><br>Blogs to See out 2020"
     url: "/musings/2020-12-22-blogs-to-read-by-end-of-year/"
     btn_class: "btn--primary"
     btn_label: "Read more..."

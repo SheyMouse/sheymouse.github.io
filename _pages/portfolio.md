@@ -15,7 +15,7 @@ Here is the list of tweets - [#LeadershipThoughts](https://twitter.com/search?q=
 
 ## Conference talks & workshops
 
-TestBash Home (2020) - [Leadership Panel](https://www.ministryoftesting.com/dojo/series/testbash-home/lessons/testbash-panel-leadership)  
+<b>TestBash Home (2020)</b> - [Leadership Panel](https://www.ministryoftesting.com/dojo/series/testbash-home/lessons/testbash-panel-leadership)  
 Nordic Testing Days (2019)  - Joint workshop with Nicola Sedgwick. Topic: How do you mentor skills that you just "do"  
 TestBash Brighton (2017) - Joint workshop with Nicola Sedgwick. Topic: Mentoring Mastery - Passing on Skill you "Just Do". [Link to Programme](/assets/images/TestBashBrighton2017Schedule.png)
 

@@ -4,5 +4,8 @@
 
 @charset "utf-8";
 
+// Overriding link colours - this setting overrides the _sass setting
+$link-color: #0192CA;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

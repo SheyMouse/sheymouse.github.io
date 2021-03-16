@@ -1,7 +1,7 @@
 ---
 layout: collection
 title:  "Blogs to See out 2020"
-excerpt: "Some blog posts to read before 2020 ends"
+excerpt: "Blog posts to read before 2020 ends"
 show_date: true
 read_time: true
 date:   2020-12-22
@@ -22,5 +22,5 @@ Content-wise, both posts are packed full of personal retrospective items, many o
 
 
 <i>This is a live post. I will update when I remember anything worth reading.</i>  
-  
+
 ---
