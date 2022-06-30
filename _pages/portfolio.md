@@ -11,7 +11,7 @@ NB: This page is very much a work in progress. It's been published in order to g
 
 ## Meetups
 
-Co-founder of the 9 out of 10 testers meetup - This is a monthly meetup where five test leaders meet to rant about a topic. We normally stream via YouTube, but are also looking for the opportunity to appear in-person at a conference or event. 
+Co-founder of the 9 out of 10 testers meetup - [LINK](https://www.youtube.com/channel/UC7Dujxx8BED6hEzPkz6JqJA) This is a monthly meetup where five test leaders meet to rant about a topic. We normally stream via YouTube, but are also looking for the opportunity to appear in-person at a conference or event.  
 Co-organiser of the London Tester Gathering  
 Co-organiser of Secrets of the Startups  
 
@@ -21,13 +21,14 @@ Here is the list of tweets - [#LeadershipThoughts](https://twitter.com/search?q=
 
 ## Conference talks & workshops
 
-<b>TestBash Home (2020)</b> - [Leadership Panel](https://www.ministryoftesting.com/dojo/series/testbash-home/lessons/testbash-panel-leadership)  
+EuroSTAR Testing Voices  (2020) - [Different Teaams, Different Perspectives](https://huddle.eurostarsoftwaretesting.com/resources/people-skills/different-teams-different-testers/?utm_source=twitter&utm_medium=social&utm_campaign=testingvoices) Panel exploring how different testers work in different environments.  
+TestBash Home (2020) - [Leadership Panel](https://www.ministryoftesting.com/dojo/series/testbash-home/lessons/testbash-panel-leadership)  
 Nordic Testing Days (2019)  - Joint workshop with Nicola Sedgwick. Topic: How do you mentor skills that you just "do"  
 TestBash Brighton (2017) - Joint workshop with Nicola Sedgwick. Topic: Mentoring Mastery - Passing on Skill you "Just Do". [Link to Programme](/assets/images/TestBashBrighton2017Schedule.png)
 
 ## TestBash 99 Second Talks
 
-Please note: you will need at minimum a free membership to the Ministry of Testing to view these.
+Please note: you will need at minimum a free membership to the Ministry of Testing to view these.  I
 
 TestBash Home (2020) - Link unavailable  
 TestBash Brighton 2017 @ 21:20 - ["I don't know, and I'm OK with that. BE EXCELLENT TO EACH OTHER"](https://www.ministryoftesting.com/dojo/series/99-second-talks-from-testbash/lessons/99-second-talks-testbash-brighton-2017)  
@@ -42,8 +43,9 @@ Peterborough Tester Gathering, November 18th 2018 - To talk transformation, you 
 
 
 Testing Peers  -
-TestBash Home  
-Tester's Island Discs  
+TestSphere Roulette Ep1 - [LINK](https://podcasts.apple.com/gb/podcast/testsphere-roulette-episode-1-chris-armstrong-rachel/id1046372364?i=1000526209849)
+TestBash MoT Podcast - [LINK](https://www.ministryoftesting.com/dojo/lessons/mot-podcast-adam-meets-lindsay-strydom-shey-crompton) Podcast recorded as part of TestBash 2020. Talking about leadership, coaching, and mentoring  
+Tester's Island Discs Ep10 - [LINK](https://www.ministryoftesting.com/dojo/lessons/testers-island-discs-ep-10-shey-crompton)
 
 ## Github repos
 
