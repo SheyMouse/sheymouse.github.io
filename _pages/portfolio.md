@@ -2,12 +2,18 @@
 permalink: /portfolio/
 title: "My Portfolio"
 excerpt: "My portfolio of appearances, creations, etc."
-last_modified_at: 2020-12-04
+last_modified_at: 2022-06-30
 ---
 
 People who create things for a living often have a portfolio of things to show. In my experience, it's difficult for a tester who isn't automating apps, or in management to showcase their wares. This page is my attempt at highlighting what I'm working on outside of my 9 to 5 job.
 
 NB: This page is very much a work in progress. It's been published in order to get feedback from peers on where this can be improved.  
+
+## Meetups
+
+Co-founder of the 9 out of 10 testers meetup - This is a monthly meetup where five test leaders meet to rant about a topic. We normally stream via YouTube, but are also looking for the opportunity to appear in-person at a conference or event. 
+Co-organiser of the London Tester Gathering  
+Co-organiser of Secrets of the Startups  
 
 ## #LeadershipThoughts on Twitter and LinkedIn
 Personal project to share my thoughts on leadership with the community. I semi-regularly post a thought about leadership on Twitter and LinkedIn under the hashtag #LeadershipThoughts. First and foremost this is to challenge myself to think about my leadership journey. Secondly, it is to provoke conversations to help others on their leadership journey, particularly those starting out.  
@@ -34,6 +40,7 @@ Peterborough Tester Gathering, November 18th 2018 - To talk transformation, you 
 
 ## Podcasts
 
+
 Testing Peers  -
 TestBash Home  
 Tester's Island Discs  
@@ -42,7 +49,4 @@ Tester's Island Discs
 
 Caesar Cipher variations in Python with TkInter - https://github.com/SheyMouse/caesar-cipher  
 
-## Meetups
 
-Co-organiser of the London Tester Gathering  
-Co-organiser of Secrets of the Startups  
