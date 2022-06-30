@@ -42,13 +42,13 @@ Peterborough Tester Gathering, November 18th 2018 - To talk transformation, you 
 ## Podcasts
 
 
-Testing Peers  -
-TestSphere Roulette Ep1 - [LINK](https://podcasts.apple.com/gb/podcast/testsphere-roulette-episode-1-chris-armstrong-rachel/id1046372364?i=1000526209849)
+Testing Peers  -  
+TestSphere Roulette Ep1 - [LINK](https://podcasts.apple.com/gb/podcast/testsphere-roulette-episode-1-chris-armstrong-rachel/id1046372364?i=1000526209849)  
 TestBash MoT Podcast - [LINK](https://www.ministryoftesting.com/dojo/lessons/mot-podcast-adam-meets-lindsay-strydom-shey-crompton) Podcast recorded as part of TestBash 2020. Talking about leadership, coaching, and mentoring  
-Tester's Island Discs Ep10 - [LINK](https://www.ministryoftesting.com/dojo/lessons/testers-island-discs-ep-10-shey-crompton)
+Tester's Island Discs Ep10 - [LINK](https://www.ministryoftesting.com/dojo/lessons/testers-island-discs-ep-10-shey-crompton)  
 
 ## Github repos
 
-Caesar Cipher variations in Python with TkInter - https://github.com/SheyMouse/caesar-cipher  
+Caesar Cipher variations in Python with TkInter - [https://github.com/SheyMouse/caesar-cipher](https://github.com/SheyMouse/caesar-cipher)  
 
 
