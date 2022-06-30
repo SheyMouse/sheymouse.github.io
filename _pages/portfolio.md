@@ -14,16 +14,28 @@ Co-founder of the 9 out of 10 testers meetup - [LINK](https://www.youtube.com/ch
 Co-organiser of the London Tester Gathering  
 Co-organiser of Secrets of the Startups  
 
+## Podcasts
+
+Testing Peers  -  The peers have been kind enough to invite me to appear on multiple episodes  
+    - [Episode 17](https://testingpeers.com/?p=562) RiskStorming Santa's 2020  
+    - [Episode 45](https://testingpeers.com/?p=1437) Christmas Dinner MVP  
+    - [Episode 58](https://testingpeers.com/?p=2682) #MakeATester Update  
+TestSphere Roulette Ep1 - [LINK](https://podcasts.apple.com/gb/podcast/testsphere-roulette-episode-1-chris-armstrong-rachel/id1046372364?i=1000526209849)  
+TestBash MoT Podcast - [LINK](https://www.ministryoftesting.com/dojo/lessons/mot-podcast-adam-meets-lindsay-strydom-shey-crompton) Podcast recorded as part of TestBash 2020. Talking about leadership, coaching, and mentoring  
+Tester's Island Discs Ep10 - [LINK](https://www.ministryoftesting.com/dojo/lessons/testers-island-discs-ep-10-shey-crompton)  
+
+
 ## #LeadershipThoughts on Twitter and LinkedIn
 Personal project to share my thoughts on leadership with the community. I semi-regularly post a thought about leadership on Twitter and LinkedIn under the hashtag #LeadershipThoughts. First and foremost this is to challenge myself to think about my leadership journey. Secondly, it is to provoke conversations to help others on their leadership journey, particularly those starting out.  
 Here is the list of tweets - [#LeadershipThoughts](https://twitter.com/search?q=\(%23LeadershipThoughts\)%20\(from%3ASheyMouse\)&src=typed_query&f=live)
 
 ## Conference talks & workshops
 
-EuroSTAR Testing Voices (2020) - [Different Teams, Different Perspectives](https://huddle.eurostarsoftwaretesting.com/resources/people-skills/different-teams-different-testers/?utm_source=twitter&utm_medium=social&utm_campaign=testingvoices) Panel exploring how different testers work in different environments.  
+EuroSTAR Testing Voices (2021) - [Different Teams, Different Perspectives](https://huddle.eurostarsoftwaretesting.com/resources/people-skills/different-teams-different-testers/?utm_source=twitter&utm_medium=social&utm_campaign=testingvoices) Panel exploring how different testers work in different environments.  
 TestBash Home (2020) - [Leadership Panel](https://www.ministryoftesting.com/dojo/series/testbash-home/lessons/testbash-panel-leadership)  
 Nordic Testing Days (2019)  - Joint workshop with Nicola Sedgwick. Topic: How do you mentor skills that you just "do"  
-TestBash Brighton (2017) - Joint workshop with Nicola Sedgwick. Topic: Mentoring Mastery - Passing on Skill you "Just Do". [Link to Programme](/assets/images/TestBashBrighton2017Schedule.png)
+TestBash Brighton (2017) - Joint workshop with Nicola Sedgwick. Topic: Mentoring Mastery - Passing on Skill you "Just Do". [Link to Programme](/assets/images/TestBashBrighton2017Schedule.png)  
+
 
 ## TestBash 99 Second Talks
 
@@ -38,16 +50,6 @@ TestBash Brighton (2016) @ 7:22 - ["Comment on blogs. JUST DO IT"](https://www.m
 Cambridge Tester Gathering, February 6th 2020 - Leadership, A parent's handbook https://www.meetup.com/Ministry-of-Testing-Cambridge/events/267806266/  
 Peterborough Tester Gathering, November 18th 2018 - To talk transformation, you need to talk testing https://www.meetup.com/Ministry-of-Testing-Peterborough/events/255430401/  
 
-## Podcasts
-
-
-Testing Peers  -  The peers have been kind enough to invite me to appear on multiple episodes  
-    - [Episode 17](https://testingpeers.com/?p=562) RiskStorming Santa's 2020  
-    - [Episode 45](https://testingpeers.com/?p=1437) Christmas Dinner MVP  
-    - [Episode 58](https://testingpeers.com/?p=2682) #MakeATester Update  
-TestSphere Roulette Ep1 - [LINK](https://podcasts.apple.com/gb/podcast/testsphere-roulette-episode-1-chris-armstrong-rachel/id1046372364?i=1000526209849)  
-TestBash MoT Podcast - [LINK](https://www.ministryoftesting.com/dojo/lessons/mot-podcast-adam-meets-lindsay-strydom-shey-crompton) Podcast recorded as part of TestBash 2020. Talking about leadership, coaching, and mentoring  
-Tester's Island Discs Ep10 - [LINK](https://www.ministryoftesting.com/dojo/lessons/testers-island-discs-ep-10-shey-crompton)  
 
 ## Github repos
 
